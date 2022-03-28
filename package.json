@@ -1,0 +1,39 @@
+{
+  "name": "dimitrileduc",
+  "version": "1.0.0",
+  "description": "npx card about my profile ",
+  "main": "index.js",
+  "bin": {
+    "dimitrileduc": "index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimitrileduc/npx-card.git"
+  },
+  "keywords": [
+    "npm",
+    "npx",
+    "buisness",
+    "card",
+    "node"
+  ],
+  "author": "dimitri leduc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimitrileduc/npx-card/issues"
+  },
+  "homepage": "https://github.com/dimitrileduc/npx-card#readme",
+  "dependencies": {
+    "boxen": "^6.2.1",
+    "chalk": "^5.0.1",
+    "clear": "^0.1.0",
+    "got": "^12.0.3",
+    "inquirer": "^8.2.2",
+    "open": "^8.4.0",
+    "terminal-image": "^2.0.0"
+  }
+}
